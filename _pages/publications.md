@@ -9,7 +9,7 @@ author_profile: true
   You can find all my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<span>&#9733;</span> denotes equal contribution
+*{sp}denotes equal contribution
 
 <ul>
 <li>
