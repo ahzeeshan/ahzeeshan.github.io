@@ -13,7 +13,7 @@ author_profile: true
 
 <ul>
 <li>
-<b>Chemomechanics: friend or foe of the `AND problem' of solid-state batteries?</b>
+<b>Chemomechanics: friend or foe of the 'AND problem' of solid-state batteries?</b>
 <br>arXiv:2108.10150 (2021)
 <br>Z. Ahmad, V. Venturi, S. Sripad, V. Viswanathan
 <br>[<a href="https://arxiv.org/abs/2108.10150">arXiv</a>]
@@ -35,7 +35,7 @@ Z. V. Vardeny, D. Sun
 </li>
 <br>
 <li>
-<b>Interfacial Effects on Solid Electrolyte Interphase in Lithium-ion Batteries</b>
+<b>Interfaces in Solid Electrolyte Interphase: Implications for Lithium-Ion Batteries</b>
 <br>J. Phys. Chem. C 125, 11301 (2021)
 <br>Z. Ahmad, V. Venturi, H. Hafiz, V. Viswanathan
 <br>[<a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c00867">journal</a>]

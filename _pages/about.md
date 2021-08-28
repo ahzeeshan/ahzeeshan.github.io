@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral scholar at the Pritzker School of Molecular Engineering, University of Chicago working with [Giulia Galli](https://pme.uchicago.edu/faculty/giulia-galli). I completed my PhD in 2020 from the Department of Mechanical Engineering, Carnegie Mellon University advised by [Venkat Viswanathan](https://www.cmu.edu/me/venkatgroup/index.html). My research is in the areas of computational materials science and condensed matter physics with applications to energy storage and conversion. Before that, I graduated from Indian Institute of Technology Delhi in 2015 with a B.Tech. in Mechanical Engineering, winning the institute silver medal. [Here](/files/AhmadCV.pdf) is my CV.
+I am a postdoctoral scholar at the Pritzker School of Molecular Engineering, University of Chicago working with [Giulia Galli](https://pme.uchicago.edu/faculty/giulia-galli). I completed my PhD in 2020 from the Department of Mechanical Engineering, Carnegie Mellon University advised by [Venkat Viswanathan](https://www.cmu.edu/me/venkatgroup/index.html). My research is in the areas of computational materials science and condensed matter physics with applications to energy storage and conversion. I graduated from Indian Institute of Technology Delhi in 2015 with a B.Tech. in Mechanical Engineering, winning the institute silver medal. [Here](/files/AhmadCV.pdf) is my CV.
 
 
 <!---
