@@ -16,14 +16,14 @@ author_profile: true
 <br>arXiv:2010.16256 (2020)
 <br>Z. Huang†, S. R. Vardeny†, T. Wang†, \textbf{Z. Ahmad†}, A. Chanana, E. Vetter, S. Yang, X. Liu, G. Galli, A. Amassian
 Z. V. Vardeny, D. Sun
-<br>[journal](https://aip.scitation.org/doi/abs/10.1063/5.0053884)
+<br>[<a href="https://aip.scitation.org/doi/abs/10.1063/5.0053884">journal</a>]
 </li>
 <br>
 <li>
 <b>Interfacial Effects on Solid Electrolyte Interphase in Lithium-ion Batteries.</b>
 <br>J. Phys. Chem. C 125, 11301 (2021)
 <br>Z. Ahmad, V. Venturi, H. Hafiz, V. Viswanathan
-<br>[journal](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c00867)
+<br>[<a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c00867">journal</a>]
 </li>
 <br>
 <li>
