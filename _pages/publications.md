@@ -9,12 +9,13 @@ author_profile: true
   You can find all my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+* denotes equal contribution
 
 <ul>
 <li>
 <b>Observation of Spatially-Resolved Rashba States on the Surface of \ce{CH3NH3PbBr3} Single Crystals</b>
 <br>arXiv:2010.16256 (2020)
-<br>Z. Huang†, S. R. Vardeny†, T. Wang†, \textbf{Z. Ahmad†}, A. Chanana, E. Vetter, S. Yang, X. Liu, G. Galli, A. Amassian
+<br>Z. Huang*, S. R. Vardeny*, T. Wang*, Z. Ahmad*, A. Chanana, E. Vetter, S. Yang, X. Liu, G. Galli, A. Amassian
 Z. V. Vardeny, D. Sun
 <br>[<a href="https://aip.scitation.org/doi/abs/10.1063/5.0053884">journal</a>]
 </li>
