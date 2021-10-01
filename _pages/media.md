@@ -6,7 +6,7 @@ author_profile: true
 ---
 <ul>
 <li>
-<a href="https://phys.org/news/2020-11-strength-liquid-crystals.html"><Phys.org</a>: The surprising strength of liquid crystals
+<a href="https://phys.org/news/2020-11-strength-liquid-crystals.html">Phys.org</a>: The surprising strength of liquid crystals
 </li>
 <li>
 <a href="https://cleantechnica.com/2020/07/22/the-key-to-better-batteries-is-soft-solid-electrolytes-say-researchers">CleanTechnica</a>: The Key To Better Batteries Is Soft Solid Electrolytes, Say Researchers
