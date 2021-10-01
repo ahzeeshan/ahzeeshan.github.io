@@ -4,6 +4,6 @@ collection: talks
 type: ""
 permalink: /talks/2017-mrsfall
 venue: ""
-date: 2017-12-2
+date: 2017-12-02
 location: ""
 ---
