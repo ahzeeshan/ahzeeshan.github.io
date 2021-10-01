@@ -10,6 +10,8 @@ redirect_from:
 
 I am a postdoctoral scholar at the Pritzker School of Molecular Engineering, the University of Chicago working with [Dr. Giulia Galli](https://pme.uchicago.edu/faculty/giulia-galli). I received my PhD in 2020 from the Department of Mechanical Engineering, Carnegie Mellon University advised by [Dr. Venkat Viswanathan](https://www.cmu.edu/me/venkatgroup/index.html). My research is in the areas of computational materials science and condensed matter physics with energy storage, conversion and computing applications. Currently, I work as a part of the [CHOISE EFRC](https://www.choise-efrc.org/index.html) team to understand and design hybrid organic-inorganic semiconductors for energy applications. I graduated from Indian Institute of Technology Delhi in 2015 with a B.Tech. in Mechanical Engineering, winning the institute silver medal. [Here](/files/AhmadCV.pdf) is my CV.
 
+Research
+======
 
 <!---
 A data-driven personal website

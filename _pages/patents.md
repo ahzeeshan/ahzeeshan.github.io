@@ -7,7 +7,7 @@ author_profile: true
 <ul>
 <li>
     <b>Fast Charging and Discharging Rechargeable Metal-based Batteries by Isotope Control</b>
-    <br>US Patent App. 63/054090
+    <br>US Patent App. 63/054090 (2020)
     <br>V. Viswanathan, Z. Ahmad, S. Zhu
 </li>
 <li>
