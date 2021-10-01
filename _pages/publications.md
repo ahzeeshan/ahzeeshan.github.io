@@ -29,7 +29,7 @@ Z. V. Vardeny, D. Sun
 <br>
 <li>
 <b>A Sequential Supervised Machine Learning Approach for Cyber Attack Detection in a Smart Grid System</b>
-<br>arXiv:2108.00476 (2021)
+<br>53rd North American Power Symposium, accepted (2021)
 <br>Y. A. Farrukh, I. Khan, Z. Ahmad, R. M. Elavarasan
 <br>[<a href="https://arxiv.org/abs/2108.00476">arXiv</a>]
 </li>
