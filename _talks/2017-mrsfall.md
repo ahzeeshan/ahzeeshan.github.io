@@ -1,11 +1,9 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Machine Learning-Driven Prediction of Electrodeposition Stability of Inorganic Solid Electrolytes with Li-Metal Anode"
 collection: talks
 type: ""
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2020
-location: "Los Angeles, CA"
+permalink: /talks/2017-mrsfall
+venue: ""
+date: 2017-12-2
+location: ""
 ---
-
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.

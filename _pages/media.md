@@ -18,6 +18,6 @@ author_profile: true
 <a href="https://techxplore.com/news/2018-12-machine-safer-batteries.html">Techxplore</a>: Machine learning to develop safer batteries
 </li>
 <li>
-<a href="https://techxplore.com/news/2016-12-batteries.html}{Techxplore">Techxplore</a>: Building better batteries
+<a href="https://techxplore.com/news/2016-12-batteries.html">Techxplore</a>: Building better batteries
 </li>
 </ul>
