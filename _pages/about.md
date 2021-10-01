@@ -13,6 +13,11 @@ I am a postdoctoral scholar at the Pritzker School of Molecular Engineering, the
 Research
 ------------------
 My research is driven by the goals of sustainability and energy efficiency. My PhD research focused on the challenges associated with enabling lithium metal anodes using solid electrolytes. 
+
+
+
+
+
 <!---
 A data-driven personal website
 ======
