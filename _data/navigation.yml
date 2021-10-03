@@ -8,5 +8,6 @@ main:
     url: /media/
   - title: "Talks"
     url: /talks/
-
+  - title: "Resources"
+    url: /resources/
     
