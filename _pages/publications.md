@@ -13,6 +13,13 @@ author_profile: true
 
 <ul>
 <li>
+<b>Understanding the Effect of Lead Iodide Excess on the Performance of Methylammonium Lead Iodide Perovskite Solar Cells</b>
+<br>arXiv:2201.12473 (2022)
+<br>Z. Ahmad, R. A. Scheidt, M. P. Hautzinger, K. Zhu, M. C. Beard, G. Galli
+<br>[<a href="https://arxiv.org/abs/2201.12473">arXiv</a>]
+</li>
+<br>
+<li>
 <b>Chemomechanics: friend or foe of the 'AND problem' of solid-state batteries?</b>
 <br>arXiv:2108.10150 (2021)
 <br>Z. Ahmad, V. Venturi, S. Sripad, V. Viswanathan
