@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral scholar at the Pritzker School of Molecular Engineering, the University of Chicago working with [Dr. Giulia Galli](https://pme.uchicago.edu/faculty/giulia-galli). I received my PhD in Mechanical Engineering in 2020 from Carnegie Mellon University advised by [Dr. Venkat Viswanathan](https://www.cmu.edu/me/venkatgroup/index.html). My research is in the areas of computational materials science and condensed matter physics with energy storage, conversion and computing applications. I graduated from Indian Institute of Technology Delhi with a B.Tech. in Mechanical Engineering, winning the institute silver medal. [Here](/files/AhmadCV.pdf) is my CV.
 
-I will join the Department of Mechanical Engineering at Texas Tech University as an Assistant Professor in Fall 2022. I am looking for motivated students to join my research group for PhD: [Open positions](https://ahzeeshan.github.io/files/openings-2022.pdf)
+I will join the Department of Mechanical Engineering at Texas Tech University as an Assistant Professor in Fall 2022. Our group invites motivated students to apply for PhD: [Open positions](https://ahzeeshan.github.io/files/openings-2022.pdf). Admitted Master's and undergraduate students interested in our research should email me with their CV and areas of interest.
 
 Research
 ------------------
