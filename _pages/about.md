@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral scholar at the Pritzker School of Molecular Engineering, the University of Chicago working with [Dr. Giulia Galli](https://pme.uchicago.edu/faculty/giulia-galli). I received my PhD in Mechanical Engineering in 2020 from Carnegie Mellon University advised by [Dr. Venkat Viswanathan](https://www.cmu.edu/me/venkatgroup/index.html). My research is in the areas of computational materials science and condensed matter physics with energy storage, conversion and computing applications. I graduated from Indian Institute of Technology Delhi with a B.Tech. in Mechanical Engineering, winning the institute silver medal. [Here](/files/AhmadCV.pdf) is my CV.
+I am an Assistant Professor of Mechanical Engineering at Texas Tech University. I received my PhD in Mechanical Engineering in 2020 from Carnegie Mellon University advised by [Dr. Venkat Viswanathan](https://www.cmu.edu/me/venkatgroup/index.html). My research is in the areas of computational materials science and condensed matter physics with energy storage, conversion and computing applications. I graduated from Indian Institute of Technology Delhi with a B.Tech. in Mechanical Engineering, winning the institute silver medal. [Here](/files/AhmadCV.pdf) is my CV.
 
-I will join the Department of Mechanical Engineering at Texas Tech University as an Assistant Professor in Fall 2022. Our group invites motivated students to apply for PhD: [Open positions](https://ahzeeshan.github.io/files/openings-2022.pdf). Admitted Master's and undergraduate students interested in our research should email me with their CV and areas of interest.
+Our group invites motivated students to apply for PhD: [Open positions](https://ahzeeshan.github.io/files/openings-2022.pdf). Admitted Master's and undergraduate students interested in our research should email me with their CV and areas of interest.
 
 Research
 ------------------
-My research is motivated by the goals of sustainability and energy efficiency. My PhD research focused on the challenges associated with enabling lithium metal batteries using solid electrolytes. I studied the fundamentals of solid-solid interfaces in solid-state batteries and the effect of mechanical stresses developed on the stability of electrodeposition or dendrite growth. [Here](https://arxiv.org/abs/2108.10150) is our recent perspective on the fascinating area of chemomechanics of solid-state batteries. Currently, I work as a part of the [CHOISE EFRC](https://www.choise-efrc.org/index.html) team to understand and design hybrid organic-inorganic semiconductors for energy applications. [Here](https://aip.scitation.org/doi/abs/10.1063/5.0053884) is our recent collaborative work discussing the effect of surface structure on spin splitting in halide perovskites. I prefer to use a variety of methods ranging from quantum mechanical and continuum simulations as well as data-driven approaches to produce engineering solutions to problems that benefit society.
+My research is motivated by the goals of sustainability and energy efficiency. My PhD research focused on the challenges associated with enabling lithium metal batteries using solid electrolytes. I studied the fundamentals of solid-solid interfaces in solid-state batteries and the effect of mechanical stresses developed on the stability of electrodeposition or dendrite growth. [Here](https://arxiv.org/abs/2108.10150) is our recent perspective on the fascinating area of chemomechanics of solid-state batteries.
+<!---
+Currently, I work as a part of the [CHOISE EFRC](https://www.choise-efrc.org/index.html) team to understand and design hybrid organic-inorganic semiconductors for energy applications. [Here](https://aip.scitation.org/doi/abs/10.1063/5.0053884) is our recent collaborative work discussing the effect of surface structure on spin splitting in halide perovskites.
+-->
+At Texas Tech, my group uses a variety of methods ranging from quantum mechanical and continuum simulations as well as data-driven approaches to produce engineering solutions to problems that benefit society.
 
 
 
