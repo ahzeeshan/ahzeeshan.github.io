@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zeeshan Ahmad"
 title_separator          : "-"
 name                     : &name "Zeeshan Ahmad"
-description              : &description "Postdoctoral Scholar at University of Chicago"
+description              : &description "Assistant Professor at Texas Tech University"
 url                      : https://ahzeeshan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ahzeeshan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zeeshan Ahmad"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Scholar, University of Chicago"
-  location         : "Chicago, IL"
+  bio              : "Assistant Professor, Texas Tech University"
+  location         : "Lubbock, TX"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=k0xt6mgAAAAJ&hl=en"
-  email            : "azeeshan@uchicago.edu"
+  email            : "zeahmad@ttu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
