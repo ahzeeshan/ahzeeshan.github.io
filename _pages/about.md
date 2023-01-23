@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Mechanical Engineering at Texas Tech University. I received my PhD in Mechanical Engineering in 2020 from Carnegie Mellon University advised by [Dr. Venkat Viswanathan](https://www.cmu.edu/me/venkatgroup/index.html). My research is in the areas of computational materials science and condensed matter physics with energy storage, conversion and computing applications. I graduated from Indian Institute of Technology Delhi with a B.Tech. in Mechanical Engineering, winning the institute silver medal. [Here](/files/AhmadCV.pdf) is my CV.
+I am an Assistant Professor of Mechanical Engineering at Texas Tech University. My research is in the areas of computational materials science and condensed matter physics with energy storage, conversion, and computing applications. I graduated from Indian Institute of Technology Delhi with a B.Tech. in Mechanical Engineering, winning the institute silver medal. [Here](/files/AhmadCV.pdf) is my CV.
 
 Our group invites motivated students to apply for PhD: [Open positions](https://ahzeeshan.github.io/files/openings-2023.pdf). Admitted Master's and undergraduate students at Texas Tech interested in our research should email me with their CV and areas of interest.
 
