@@ -14,7 +14,7 @@ Our group invites motivated students to apply for PhD: [Open positions](https://
 
 Research
 ------------------
-My research is motivated by the goals of sustainability and energy efficiency. My PhD research focused on the challenges associated with enabling lithium metal batteries using solid electrolytes. I studied the fundamentals of solid-solid interfaces in solid-state batteries and the effect of mechanical stresses developed on the stability of electrodeposition or dendrite growth. [Here](https://arxiv.org/abs/2108.10150) is our recent perspective on the fascinating area of chemomechanics of solid-state batteries.
+Our research is motivated by the goals of sustainability and energy efficiency. [Here](https://arxiv.org/abs/2108.10150) is our recent perspective on the fascinating area of chemomechanics of solid-state batteries.
 <!---
 Currently, I work as a part of the [CHOISE EFRC](https://www.choise-efrc.org/index.html) team to understand and design hybrid organic-inorganic semiconductors for energy applications. [Here](https://aip.scitation.org/doi/abs/10.1063/5.0053884) is our recent collaborative work discussing the effect of surface structure on spin splitting in halide perovskites.
 -->
