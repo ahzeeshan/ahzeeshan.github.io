@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor of Mechanical Engineering at Texas Tech University. My research is in the areas of computational materials science and condensed matter physics with energy storage, conversion, and computing applications. I graduated from Indian Institute of Technology Delhi with a B.Tech. in Mechanical Engineering, winning the institute silver medal. [Here](/files/AhmadCV.pdf) is my CV.
 
-Our group invites motivated students to apply for PhD: [Open positions](https://ahzeeshan.github.io/files/openings-2023.pdf). Admitted Master's and undergraduate students at Texas Tech interested in our research should email me with their CV and areas of interest.
+We are always looking for motivated PhD, Master's, and undergraduate students to join our group. [Current PhD Openings](https://ahzeeshan.github.io/files/openings-2023.pdf). Admitted Master's and undergraduate students at Texas Tech interested in our research should email me with their CV and areas of interest.
 
 Research
 ------------------
