@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Mechanical Engineering at Texas Tech University. My research is in the areas of computational materials science and condensed matter physics with energy storage, conversion, and computing applications. I graduated from Indian Institute of Technology Delhi with a B.Tech. in Mechanical Engineering, winning the institute silver medal. [Here](/files/AhmadCV.pdf) is my CV.
+I am an Assistant Professor of Mechanical Engineering at Texas Tech University. My research is on the design of materials and processes for next-generation lithium-ion batteries and solar photovoltaics. I graduated from Indian Institute of Technology Delhi with a B.Tech. in Mechanical Engineering, winning the institute silver medal. [Here](/files/AhmadCV.pdf) is my CV.
 
 We are always looking for motivated PhD, Master's, and undergraduate students to join our group.
+
 [Current PhD Openings](https://ahzeeshan.github.io/files/openings-2023.pdf).
+
 Admitted Master's and undergraduate students at Texas Tech interested in our research should email me with their CV and areas of interest.
 
 Research
 ------------------
-Our research is motivated by the goals of sustainability and energy efficiency. [Here](https://arxiv.org/abs/2108.10150) is our recent perspective on the fascinating area of chemomechanics of solid-state batteries.
+Our research is motivated by the goals of sustainability and energy efficiency. [Here](https://doi.org/10.1016/j.cossms.2022.101002) is our recent perspective on the fascinating area of chemomechanics of solid-state batteries.
 <!---
 Currently, I work as a part of the [CHOISE EFRC](https://www.choise-efrc.org/index.html) team to understand and design hybrid organic-inorganic semiconductors for energy applications. [Here](https://aip.scitation.org/doi/abs/10.1063/5.0053884) is our recent collaborative work discussing the effect of surface structure on spin splitting in halide perovskites.
 -->
