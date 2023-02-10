@@ -12,7 +12,7 @@ I am an Assistant Professor of Mechanical Engineering at Texas Tech University. 
 
 We are always looking for motivated PhD, Master's, and undergraduate students to join our group.
 
-[Current PhD Openings](https://ahzeeshan.github.io/files/openings-2023.pdf).
+[Current PhD Openings](https://ahzeeshan.github.io/files/openings-2023.pdf)
 
 Admitted Master's and undergraduate students at TTU interested in our research should email me with their CV and areas of interest. Undergraduate students can be supported through the [TTU Honors College](https://www.depts.ttu.edu/honors/academicsandenrichment/urs/opportunities.php) or the [TTU Engineering REU](/files/WCOE-Research-for-Undergraduates-Summer2023.pdf)
 
