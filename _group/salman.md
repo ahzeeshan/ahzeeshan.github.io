@@ -1,6 +1,6 @@
 ---
 title: "Salman Limon"
-excerpt: "PhD Student (2022-)<br/><img src='/images/salman.png', width = '400', height = '300'>"
+excerpt: "<img src='/images/bio-photo-2.jpg', width='400' height='300'>"
 collection: group
 ---
 
