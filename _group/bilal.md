@@ -1,6 +1,6 @@
 ---
 title: "Bilal Ahmad"
-excerpt: "<img src='/images/bilal.png' width='300' height = '150'>"
+excerpt: "<img src='/images/bilal.png' width='200' height = '150'>"
 collection: group
 ---
 
