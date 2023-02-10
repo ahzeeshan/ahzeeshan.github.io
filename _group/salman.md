@@ -1,6 +1,6 @@
 ---
 title: "Salman Limon"
-excerpt: "<img src='/images/bio-photo-2.jpg', width='400' height='300'>"
+excerpt: "<img src='/images/bio-photo-2.jpg' width='200' height='150'>"
 collection: group
 ---
 
