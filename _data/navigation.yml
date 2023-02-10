@@ -4,6 +4,8 @@ main:
     url: /publications/
   - title: "Patents"
     url: /patents/
+  - title: "Group"
+    url: /group/
   - title: "Media"
     url: /media/
   - title: "Talks"
