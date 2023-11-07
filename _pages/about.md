@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Mechanical Engineering at Texas Tech University. My research is on the design of materials and processes for next-generation lithium-ion batteries and solar photovoltaics. I graduated from Indian Institute of Technology Delhi with a B.Tech. in Mechanical Engineering, winning the institute silver medal. [Here](/files/AhmadCV.pdf) is my CV.
+I am an Assistant Professor of Mechanical Engineering at Texas Tech University. My research is on the design of materials and processes for next-generation lithium-ion batteries and solar photovoltaics. Previously, I was a postdoctoral scholar at the University of Chicago and a PhD candidate at Carnegie Mellon University. [Here](/files/AhmadCV.pdf) is my CV.
 
 We are always looking for motivated PhD, Master's, and undergraduate students to join our group.
 
