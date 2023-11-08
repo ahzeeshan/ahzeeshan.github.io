@@ -1,6 +1,6 @@
 ---
 title: "Smitkumar Patel"
-excerpt: "<img src='/images/smit.png' width='200' height = '150'>"
+excerpt: "<img src='/images/smit.jpeg' width='200' height = '150'>"
 collection: group
 ---
 
