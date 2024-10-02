@@ -1,6 +1,6 @@
 ---
 title: "Abrar Fahim Navid"
-excerpt: "<img src='/images/bio-photo-2.jpg' width='200' height='150'>"
+excerpt: "<img src='/images/navid.jpg' width='200' height='150'>"
 collection: group
 ---
 
