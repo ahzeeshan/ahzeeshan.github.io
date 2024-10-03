@@ -1,6 +1,6 @@
 ---
 title: "Moin Uddin Maruf"
-excerpt: "<img src='/images/bio-photo-2.jpg' width='200' height='150'>"
+excerpt: "<img src='/images/moin.jpg' width='200' height='150'>"
 collection: group
 ---
 
