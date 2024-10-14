@@ -10,10 +10,10 @@ redirect_from:
 
 I am an Assistant Professor of Mechanical Engineering at Texas Tech University. My research is on the design of materials and processes for next-generation lithium-ion batteries and solar photovoltaics. Previously, I was a postdoctoral scholar at the University of Chicago and a PhD candidate at Carnegie Mellon University. [Here](/files/AhmadCV.pdf) is my CV.
 
-We are always looking for motivated PhD, Master's, and undergraduate students to join our group. Currently, there are no PhD openings for Spring 25.
+Currently, there are no PhD openings in the group for Spring 25. Please check back later for Fall 25 openings.
 
 
-Admitted Master's and undergraduate students at TTU interested in our research should email me with their CV and areas of interest. Undergraduate students can be supported through the [TTU Honors College](https://www.depts.ttu.edu/honors/academicsandenrichment/urs/) or the [TTU Engineering REU](/files/WCOE-Research-for-Undergraduates-Summer2023.pdf)
+We are always looking for motivated Master's, and undergraduate students to join our group. Admitted Master's and undergraduate students at TTU interested in our research should email me with their CV and areas of interest. Undergraduate students can be supported through the [TTU Honors College](https://www.depts.ttu.edu/honors/academicsandenrichment/urs/) or the [TTU Engineering REU](/files/WCOE-Research-for-Undergraduates-Summer2023.pdf)
 
 Research
 ------------------
