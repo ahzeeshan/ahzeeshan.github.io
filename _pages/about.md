@@ -13,7 +13,7 @@ I am an Assistant Professor of Mechanical Engineering at Texas Tech University. 
 Currently, there are no PhD openings in the group for Spring 25. Please check back later for Fall 25 openings.
 
 
-We are always looking for motivated Master's, and undergraduate students to join our group. Admitted Master's and undergraduate students at TTU interested in our research should email me with their CV and areas of interest. Undergraduate students can be supported through the [TTU Honors College](https://www.depts.ttu.edu/honors/academicsandenrichment/urs/) or the [TTU Engineering REU](/files/WCOE-Research-for-Undergraduates-Summer2023.pdf)
+We are always looking for self-motivated Master's, and undergraduate students to join our group. Admitted Master's and undergraduate students at TTU interested in our research should email me with their CV and areas of interest. Undergraduate students can be supported through the [TTU Honors College](https://www.depts.ttu.edu/honors/academicsandenrichment/urs/) or the [TTU Engineering REU](/files/WCOE-Research-for-Undergraduates-Summer2023.pdf)
 
 Research
 ------------------
