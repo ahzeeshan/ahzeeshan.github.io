@@ -10,18 +10,21 @@ redirect_from:
 
 I am an Assistant Professor of Mechanical Engineering at Texas Tech University. My research is on the design of materials and processes for next-generation lithium-ion batteries and solar photovoltaics. Previously, I was a postdoctoral scholar at the University of Chicago and a PhD candidate at Carnegie Mellon University. [Here](/files/AhmadCV.pdf) is my CV.
 
-Currently, there are no PhD openings in the group for Spring 25. Please check back later for Fall 25 openings.
+Currently, there are no PhD openings in the group for Fall 25.
 
 
-We are always looking for self-motivated Master's, and undergraduate students to join our group. Admitted Master's and undergraduate students at TTU interested in our research should email me with their CV and areas of interest. Undergraduate students can be supported through the [TTU Honors College](https://www.depts.ttu.edu/honors/academicsandenrichment/urs/) or the [TTU Engineering REU](/files/WCOE-Research-for-Undergraduates-Summer2023.pdf)
+We are always looking for self-motivated Master's, and undergraduate students to join our group. Admitted Master's and undergraduate students at TTU interested in our research should email me with their CV and areas of interest. Currently, there is no funding for Master's students. Undergraduate students can be supported through the [TTU Honors College](https://www.depts.ttu.edu/honors/academicsandenrichment/urs/).
 
 Research
 ------------------
-Our research is motivated by the goals of sustainability and energy efficiency. [Here](https://doi.org/10.1016/j.cossms.2022.101002) is our recent perspective on the fascinating area of chemomechanics of solid-state batteries.
+Our research focuses on advancing sustainability and energy efficiency by fundamentally understanding, modeling, and predicting the behavior and performance of materials for energy conversion and storage at the atomic scale and mesoscale. These efforts are rooted in investigating the atomic and microstructural properties of materials to provide new insights and explain their emergent behavior. Recent research applications include lithium metal solid-state batteries and organic-inorganic perovskite semiconductors. Our ultimate goal is to leverage this understanding to manipulate and control matter, enabling the translation of research insights into technologies that provide tangible benefits to society. 
+
+We employ a combination of atomistic first-principles simulations and mesoscale modeling to investigate the materials and interfaces associated with dynamic phenomena involved in energy conversion and storage such as charge transfer, electrodeposition, electrodissolution, ionic and electronic transport. We complement our theoretical efforts with electrochemical characterization experiments conducted in-house and advanced characterization conducted by our experimental collaborators to validate the predictions and iteratively improve our models. Recently, we have developed and leveraged physics-informed machine learning tools such as long-range equivariant interatomic potentials to accelerate quantum simulations of materials. This approach represents a significant step towards building a foundational machine learning framework for materials discovery, and we are interested in applying it to tackle current challenges such as energy storage and capture, semiconductors, and environmental remediation.
+
 <!---
 Currently, I work as a part of the [CHOISE EFRC](https://www.choise-efrc.org/index.html) team to understand and design hybrid organic-inorganic semiconductors for energy applications. [Here](https://aip.scitation.org/doi/abs/10.1063/5.0053884) is our recent collaborative work discussing the effect of surface structure on spin splitting in halide perovskites.
 -->
-At Texas Tech, my group uses a variety of methods ranging from quantum mechanical and continuum simulations as well as data-driven approaches to produce engineering solutions to problems that benefit society.
+
 
 
 
