@@ -8,6 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+To modify the theme of this webpage, you will need to edit the site's configuration files. The primary file for theme customization is `_config.yml` located in the root directory of your repository. In this file, you can change settings such as the color scheme, fonts, and layout.
+
+For example, to change the color scheme, you can modify the `minimal_mistakes_skin` variable in `_config.yml`. Available skins include `air`, `contrast`, `dark`, `dirt`, `mint`, `sunrise`, and others.
+
+```yaml
+# _config.yml
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "mint", "sunrise", "default"
+```
+
+For more advanced customizations, such as changing specific colors or CSS properties, you may need to edit the SASS files located in the `_sass` directory.
+
+For detailed instructions, refer to the documentation for the Minimal Mistakes theme, which this site is based on:
+- [Configuration Guide](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
+- [Customizing SASS](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/)
+
 I am an Assistant Professor of Mechanical Engineering at Texas Tech University. My research is on the design of materials and processes for next-generation lithium-ion batteries and solar photovoltaics. Previously, I was a postdoctoral scholar at the University of Chicago and a PhD candidate at Carnegie Mellon University. [Here](/files/AhmadCV.pdf) is my CV.
 
 Currently, there are no PhD or postdoc openings in the group for Fall 25.
@@ -21,9 +36,6 @@ Our research focuses on advancing sustainability and energy efficiency by fundam
 
 We employ a combination of atomistic first-principles simulations and mesoscale modeling to investigate the materials and interfaces associated with dynamic phenomena involved in energy conversion and storage such as charge transfer, electrodeposition, electrodissolution, ionic and electronic transport. We complement our theoretical efforts with electrochemical characterization experiments conducted in-house and advanced characterization conducted by our experimental collaborators to validate the predictions and iteratively improve our models. Recently, we have developed and leveraged physics-informed machine learning tools such as long-range equivariant interatomic potentials to accelerate quantum simulations of materials. This approach represents a significant step towards building a foundational machine learning framework for materials discovery, and we are interested in applying it to tackle current challenges such as energy storage and capture, semiconductors, and environmental remediation.
 
-<!---
-Currently, I work as a part of the [CHOISE EFRC](https://www.choise-efrc.org/index.html) team to understand and design hybrid organic-inorganic semiconductors for energy applications. [Here](https://aip.scitation.org/doi/abs/10.1063/5.0053884) is our recent collaborative work discussing the effect of surface structure on spin splitting in halide perovskites.
--->
 
 
 
