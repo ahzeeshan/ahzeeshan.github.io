@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!---
 To modify the theme of this webpage, you will need to edit the site's configuration files. The primary file for theme customization is `_config.yml` located in the root directory of your repository. In this file, you can change settings such as the color scheme, fonts, and layout.
 
 For example, to change the color scheme, you can modify the `minimal_mistakes_skin` variable in `_config.yml`. Available skins include `air`, `contrast`, `dark`, `dirt`, `mint`, `sunrise`, and others.
@@ -22,6 +22,7 @@ For more advanced customizations, such as changing specific colors or CSS proper
 For detailed instructions, refer to the documentation for the Minimal Mistakes theme, which this site is based on:
 - [Configuration Guide](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
 - [Customizing SASS](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/)
+-->
 
 I am an Assistant Professor of Mechanical Engineering at Texas Tech University. My research is on the design of materials and processes for next-generation lithium-ion batteries and solar photovoltaics. Previously, I was a postdoctoral scholar at the University of Chicago and a PhD candidate at Carnegie Mellon University. [Here](/files/AhmadCV.pdf) is my CV.
 
